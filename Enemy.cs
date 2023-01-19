@@ -1,3 +1,6 @@
+//attach it to the gameobject that you want to follow you.
+//the gameobject MUST have attached a nav mesh agent.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
